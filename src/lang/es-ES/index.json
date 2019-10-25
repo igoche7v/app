@@ -99,7 +99,7 @@
       "YEAR": "A year. Allows `1901` to `2155` or `0000`"
     }
   },
-  "date_and_time": "Date & Time",
+  "date_and_time": "Fecha y hora",
   "db_column_name": "Database column name...",
   "db_datatype": "{db} Datatype",
   "db_name": "Database Name",
