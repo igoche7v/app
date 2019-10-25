@@ -147,7 +147,7 @@
   "enter_role_name": "Introduzca el nombre del rol...",
   "enter_value": "Ingrese valor",
   "environment": "Entorno",
-  "equal_to": "Equal to",
+  "equal_to": "Igual a",
   "error_unknown": "Unknown error. Try again later.",
   "errors": {
     "11": "Can't connect to database",
